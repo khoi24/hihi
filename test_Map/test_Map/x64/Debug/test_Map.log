@@ -1,0 +1,5 @@
+﻿  Func.cpp
+C:\Users\Admin\Desktop\23\hihi\test_Map\test_Map\Func.cpp(37,7): warning C4101: 'a': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  test_Map.vcxproj -> C:\Users\Admin\Desktop\23\hihi\test_Map\x64\Debug\test_Map.exe

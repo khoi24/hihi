@@ -47,7 +47,7 @@ void outinfo(PIxel* p, infoheader info)
     int index = i * info.width + j;
     cout << (int)p[index].G << "  " << (int)p[index].B << "  " << (int)p[index].R << endl;
    
-
+    cout << "new1" << endl;
 
 }
 
